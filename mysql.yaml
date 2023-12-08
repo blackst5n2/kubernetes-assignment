@@ -14,7 +14,7 @@ spec:
         app: app
     spec:
       containers:
-      - image: mysql:8.0.35-debian
+      - image: mysql:8.0.35
         name: mysql
         env:
         - name: MYSQL_ROOT_PASSWORD

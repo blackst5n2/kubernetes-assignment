@@ -12,11 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1702016025,,"wq"
+|2,0,1702019072,,"wq"
+:q
+|2,0,1702017528,,"q"
 :Wq
 |2,0,1702016023,,"Wq"
-:q
-|2,0,1702014230,,"q"
 :qa!
 |2,0,1702008207,,"qa!"
 :qa
@@ -68,28 +68,52 @@
 |3,1,36,0,1,0,1701998241,"0"
 
 # File marks:
-'0  1  0  ~/secret-all.yaml
-|4,48,1,0,1702016025,"~/secret-all.yaml"
-'1  36  13  ~/mysql.yaml
-|4,49,36,13,1702014230,"~/mysql.yaml"
-'2  36  13  ~/mysql.yaml
-|4,50,36,13,1702009182,"~/mysql.yaml"
-'3  24  3  ~/mysql.yaml
-|4,51,24,3,1702008207,"~/mysql.yaml"
-'4  24  3  ~/mysql.yaml
-|4,52,24,3,1702008207,"~/mysql.yaml"
-'5  24  3  ~/mysql.yaml
-|4,53,24,3,1702008207,"~/mysql.yaml"
-'6  24  3  ~/mysql.yaml
-|4,54,24,3,1702008207,"~/mysql.yaml"
-'7  36  13  ~/app.yaml
-|4,55,36,13,1702000912,"~/app.yaml"
-'8  16  0  ~/README-cloudshell.txt
-|4,56,16,0,1701998950,"~/README-cloudshell.txt"
-'9  37  28  ~/app.yaml
-|4,57,37,28,1701998262,"~/app.yaml"
+'0  17  26  ~/mysql.yaml
+|4,48,17,26,1702019072,"~/mysql.yaml"
+'1  11  10  ~/mysql.yaml
+|4,49,11,10,1702017528,"~/mysql.yaml"
+'2  11  10  ~/mysql.yaml
+|4,50,11,10,1702017528,"~/mysql.yaml"
+'3  1  0  ~/secret-all.yaml
+|4,51,1,0,1702017454,"~/secret-all.yaml"
+'4  1  0  ~/secret-all.yaml
+|4,52,1,0,1702016025,"~/secret-all.yaml"
+'5  36  13  ~/mysql.yaml
+|4,53,36,13,1702014230,"~/mysql.yaml"
+'6  36  13  ~/mysql.yaml
+|4,54,36,13,1702014230,"~/mysql.yaml"
+'7  36  13  ~/mysql.yaml
+|4,55,36,13,1702014230,"~/mysql.yaml"
+'8  36  13  ~/mysql.yaml
+|4,56,36,13,1702014230,"~/mysql.yaml"
+'9  36  13  ~/mysql.yaml
+|4,57,36,13,1702009182,"~/mysql.yaml"
 
 # Jumplist (newest first):
+-'  17  26  ~/mysql.yaml
+|4,39,17,26,1702019072,"~/mysql.yaml"
+-'  11  10  ~/mysql.yaml
+|4,39,11,10,1702019062,"~/mysql.yaml"
+-'  11  10  ~/mysql.yaml
+|4,39,11,10,1702017528,"~/mysql.yaml"
+-'  36  13  ~/mysql.yaml
+|4,39,36,13,1702017473,"~/mysql.yaml"
+-'  36  13  ~/mysql.yaml
+|4,39,36,13,1702017473,"~/mysql.yaml"
+-'  1  0  ~/secret-all.yaml
+|4,39,1,0,1702017454,"~/secret-all.yaml"
+-'  1  0  ~/secret-all.yaml
+|4,39,1,0,1702017454,"~/secret-all.yaml"
+-'  1  0  ~/secret-all.yaml
+|4,39,1,0,1702017454,"~/secret-all.yaml"
+-'  1  0  ~/secret-all.yaml
+|4,39,1,0,1702017454,"~/secret-all.yaml"
+-'  1  0  ~/secret-all.yaml
+|4,39,1,0,1702016025,"~/secret-all.yaml"
+-'  1  0  ~/secret-all.yaml
+|4,39,1,0,1702016025,"~/secret-all.yaml"
+-'  1  0  ~/secret-all.yaml
+|4,39,1,0,1702016025,"~/secret-all.yaml"
 -'  1  0  ~/secret-all.yaml
 |4,39,1,0,1702016025,"~/secret-all.yaml"
 -'  36  13  ~/mysql.yaml
@@ -97,6 +121,14 @@
 -'  36  13  ~/mysql.yaml
 |4,39,36,13,1702014230,"~/mysql.yaml"
 -'  36  13  ~/mysql.yaml
+|4,39,36,13,1702014230,"~/mysql.yaml"
+-'  36  13  ~/mysql.yaml
+|4,39,36,13,1702014230,"~/mysql.yaml"
+-'  36  13  ~/mysql.yaml
+|4,39,36,13,1702009182,"~/mysql.yaml"
+-'  36  13  ~/mysql.yaml
+|4,39,36,13,1702009182,"~/mysql.yaml"
+-'  36  13  ~/mysql.yaml
 |4,39,36,13,1702009182,"~/mysql.yaml"
 -'  36  13  ~/mysql.yaml
 |4,39,36,13,1702009182,"~/mysql.yaml"
@@ -109,6 +141,22 @@
 -'  24  3  ~/mysql.yaml
 |4,39,24,3,1702008284,"~/mysql.yaml"
 -'  24  3  ~/mysql.yaml
+|4,39,24,3,1702008284,"~/mysql.yaml"
+-'  24  3  ~/mysql.yaml
+|4,39,24,3,1702008284,"~/mysql.yaml"
+-'  24  3  ~/mysql.yaml
+|4,39,24,3,1702008284,"~/mysql.yaml"
+-'  24  3  ~/mysql.yaml
+|4,39,24,3,1702008284,"~/mysql.yaml"
+-'  24  3  ~/mysql.yaml
+|4,39,24,3,1702008284,"~/mysql.yaml"
+-'  24  3  ~/mysql.yaml
+|4,39,24,3,1702008284,"~/mysql.yaml"
+-'  24  3  ~/mysql.yaml
+|4,39,24,3,1702008207,"~/mysql.yaml"
+-'  24  3  ~/mysql.yaml
+|4,39,24,3,1702008207,"~/mysql.yaml"
+-'  24  3  ~/mysql.yaml
 |4,39,24,3,1702008207,"~/mysql.yaml"
 -'  24  3  ~/mysql.yaml
 |4,39,24,3,1702008207,"~/mysql.yaml"
@@ -124,6 +172,22 @@
 |4,39,29,32,1702005598,"~/mysql.yaml"
 -'  29  32  ~/mysql.yaml
 |4,39,29,32,1702005598,"~/mysql.yaml"
+-'  29  32  ~/mysql.yaml
+|4,39,29,32,1702005598,"~/mysql.yaml"
+-'  29  32  ~/mysql.yaml
+|4,39,29,32,1702005598,"~/mysql.yaml"
+-'  29  32  ~/mysql.yaml
+|4,39,29,32,1702005598,"~/mysql.yaml"
+-'  29  32  ~/mysql.yaml
+|4,39,29,32,1702005598,"~/mysql.yaml"
+-'  29  32  ~/mysql.yaml
+|4,39,29,32,1702005598,"~/mysql.yaml"
+-'  29  32  ~/mysql.yaml
+|4,39,29,32,1702005598,"~/mysql.yaml"
+-'  29  32  ~/mysql.yaml
+|4,39,29,32,1702005598,"~/mysql.yaml"
+-'  29  32  ~/mysql.yaml
+|4,39,29,32,1702005598,"~/mysql.yaml"
 -'  36  13  ~/app.yaml
 |4,39,36,13,1702000912,"~/app.yaml"
 -'  36  13  ~/app.yaml
@@ -156,152 +220,84 @@
 |4,39,36,13,1702000912,"~/app.yaml"
 -'  36  13  ~/app.yaml
 |4,39,36,13,1702000912,"~/app.yaml"
--'  37  28  ~/app.yaml
-|4,39,37,28,1702000797,"~/app.yaml"
--'  37  28  ~/app.yaml
-|4,39,37,28,1702000797,"~/app.yaml"
--'  37  28  ~/app.yaml
-|4,39,37,28,1702000797,"~/app.yaml"
--'  37  28  ~/app.yaml
-|4,39,37,28,1702000797,"~/app.yaml"
--'  37  28  ~/app.yaml
-|4,39,37,28,1702000797,"~/app.yaml"
--'  37  28  ~/app.yaml
-|4,39,37,28,1702000797,"~/app.yaml"
--'  37  28  ~/app.yaml
-|4,39,37,28,1702000797,"~/app.yaml"
--'  37  28  ~/app.yaml
-|4,39,37,28,1702000797,"~/app.yaml"
--'  37  28  ~/app.yaml
-|4,39,37,28,1702000797,"~/app.yaml"
--'  37  28  ~/app.yaml
-|4,39,37,28,1702000797,"~/app.yaml"
--'  37  28  ~/app.yaml
-|4,39,37,28,1702000797,"~/app.yaml"
--'  37  28  ~/app.yaml
-|4,39,37,28,1702000797,"~/app.yaml"
--'  37  28  ~/app.yaml
-|4,39,37,28,1702000797,"~/app.yaml"
--'  37  28  ~/app.yaml
-|4,39,37,28,1702000797,"~/app.yaml"
--'  37  28  ~/app.yaml
-|4,39,37,28,1702000797,"~/app.yaml"
--'  37  28  ~/app.yaml
-|4,39,37,28,1702000797,"~/app.yaml"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  16  0  ~/README-cloudshell.txt
-|4,39,16,0,1701998950,"~/README-cloudshell.txt"
--'  1  0  ~/README-cloudshell.txt
-|4,39,1,0,1701998938,"~/README-cloudshell.txt"
--'  1  0  ~/README-cloudshell.txt
-|4,39,1,0,1701998938,"~/README-cloudshell.txt"
--'  1  0  ~/README-cloudshell.txt
-|4,39,1,0,1701998938,"~/README-cloudshell.txt"
--'  1  0  ~/README-cloudshell.txt
-|4,39,1,0,1701998938,"~/README-cloudshell.txt"
--'  1  0  ~/README-cloudshell.txt
-|4,39,1,0,1701998938,"~/README-cloudshell.txt"
--'  1  0  ~/README-cloudshell.txt
-|4,39,1,0,1701998938,"~/README-cloudshell.txt"
--'  1  0  ~/README-cloudshell.txt
-|4,39,1,0,1701998938,"~/README-cloudshell.txt"
--'  1  0  ~/README-cloudshell.txt
-|4,39,1,0,1701998938,"~/README-cloudshell.txt"
--'  1  0  ~/README-cloudshell.txt
-|4,39,1,0,1701998938,"~/README-cloudshell.txt"
--'  1  0  ~/README-cloudshell.txt
-|4,39,1,0,1701998938,"~/README-cloudshell.txt"
--'  1  0  ~/README-cloudshell.txt
-|4,39,1,0,1701998938,"~/README-cloudshell.txt"
--'  1  0  ~/README-cloudshell.txt
-|4,39,1,0,1701998938,"~/README-cloudshell.txt"
--'  1  0  ~/README-cloudshell.txt
-|4,39,1,0,1701998938,"~/README-cloudshell.txt"
--'  1  0  ~/README-cloudshell.txt
-|4,39,1,0,1701998938,"~/README-cloudshell.txt"
--'  1  0  ~/README-cloudshell.txt
-|4,39,1,0,1701998938,"~/README-cloudshell.txt"
--'  1  0  ~/README-cloudshell.txt
-|4,39,1,0,1701998938,"~/README-cloudshell.txt"
--'  1  0  ~/README-cloudshell.txt
-|4,39,1,0,1701998938,"~/README-cloudshell.txt"
--'  1  0  ~/README-cloudshell.txt
-|4,39,1,0,1701998938,"~/README-cloudshell.txt"
--'  1  0  ~/README-cloudshell.txt
-|4,39,1,0,1701998938,"~/README-cloudshell.txt"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
+-'  36  13  ~/app.yaml
+|4,39,36,13,1702000912,"~/app.yaml"
 
 # History of marks within files (newest to oldest):
 
-> ~/secret-all.yaml
-	*	1702016024	0
-	"	1	0
-
 > ~/mysql.yaml
-	*	1702013524	0
-	"	36	13
-	^	24	4
-	.	33	21
+	*	1702019071	0
+	"	17	26
+	^	17	27
+	.	17	27
 	+	9	1
 	+	10	1
 	+	11	1
@@ -346,6 +342,11 @@
 	+	53	0
 	+	29	32
 	+	33	21
+	+	17	27
+
+> ~/secret-all.yaml
+	*	1702017443	0
+	"	1	0
 
 > ~/app.yaml
 	*	1702000910	0

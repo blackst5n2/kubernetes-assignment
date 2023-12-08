@@ -1,25 +1,3 @@
-kubectl apply -f mysql-service.yaml
-kubectl apply -f mysql-svc.yaml
-kubectl get all
-kubectl apply -f app.yaml
-kubectl get all
-kubectl get secret
-kubectl get all
-kubectl get ing
-vim ingress.yaml
-kubectl get all
-kubectl get ing
-kubectl delete ingress nginx-ingress
-kubectl apply -f ingress.yaml
-kubectl get all
-kubectl get ing
-curl 35.243.108.75:31278
-openssl req -x509 -nodes -days 365 -newkey rsa:2048     -out ingress-tls.crt     -keyout ingress-tls.key     -subj "/CN=ingress-tls"
-kubectl create secret tls ingress-tls     --namespace default     --key ingress-tls.key     --cert ingress-tls.crt
-kubectl delete ingress ingress-nginx
-kubectl delete ingress nginx-ingress
-cat <<EOF | kubectl apply -f -
-apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
   name: app-ingress
@@ -511,3 +489,16 @@ git config --global user.email "blackst5n2@gmail.com"
 git config --global user.name "blackst5n2"
 git init
 get add .
+git add .
+git commit -m "submit"
+git push -u origin master
+git push -u origin main
+ls
+vim secret-all.yaml 
+vim mysql.yaml
+kubectl get all
+kubectl describe pod/mysql-66c7f8dcf4-bbbw6
+ls
+mysql.yaml
+vim mysql.yaml
+ls
